@@ -3,7 +3,7 @@ layout: default
 ---
 Portfolio of **Dr. Vishnu Vardhan Gudla**
 
-
+<center><img src="VISHNU11.jpg"/></center>
 
 Dr. Gudla Vishnu Vardhan is a 5G and 6G communication researcher with a Ph.D. degree from the Vellore Institute of Technology, Vellore. His doctoral research focused on exploring the potential technologies for next-generation wireless communication networks, with a particular emphasis on developing spectral and energy-efficient Index/spatial modulation-based MIMO and Massive MIMO systems for the next-generation networks.
 
