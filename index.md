@@ -1,18 +1,20 @@
 ---
 layout: default
 ---
+Portfolio of **Dr. Vishnu Vardhan Gudla**
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+
+Dr. Gudla Vishnu Vardhan is a 5G and 6G communication researcher with a Ph.D. degree from the Vellore Institute of Technology, Vellore. His doctoral research focused on exploring the potential technologies for next-generation wireless communication networks, with a particular emphasis on developing spectral and energy-efficient Index/spatial modulation-based MIMO and Massive MIMO systems for the next-generation networks.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Project 1: A Deep Learning-Based Robust Automatic Modulation Classification Scheme for Next-Generation Networks
 
-# Header 1
+**Abstract**: Due to stochastic wireless environment, the process of modulation classification has become a challenging task. Because of its powerful feature extraction ability and promising performance over the conventional schemes, deep learning (DL) models are employed to automatic modulation classification (AMC) problems. Most of the conventional models proposed are tested for the limited set of modulation schemes transmitted over additive white Gaussian noise (AWGN) channels without considering the effect of multipath fading and Doppler shift. The next-generation networks use adaptive and higher-order quadrature amplitude modulation (QAM) schemes for higher spectral efficiency. The classification accuracy of conventional DL-based AMC schemes drastically reduces, when different order QAM modulation schemes are accommodated. In this work, different scaling factors are selected for the generation of M
+-QAM frames. The combination of scaling factors, which maximize the classification accuracy is chosen. A convolutional neural network (CNN) with six stages is employed for AMC. The simulation results show that the classification accuracy of proposed scheme is higher than the conventional DL-based schemes under various signal-to-noise ratio (SNR) conditions. The proposed scheme shows at least 4% improvement in classification accuracy over the other DL-based schemes.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
